@@ -1,6 +1,5 @@
 ## C# Hotel Project (OOP Study)
-A simple project in C# for a hotel reserve management.<br>
-Using some new resources from C# 12, like primary constructor, required properties and expression-bodied members.
+A simple project in C# for testing OOP.<br>
 
 ## Project Structure
 The project has three main classes:
